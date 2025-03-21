@@ -1,9 +1,5 @@
-![logo](https://github.com/87purvatapare/87purvatapare/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Purva Reshma Rakesh Tapare</h1>
 <h3 align="center">A passionate Full-Stack developer| C, C++, Python| HTML, CSS, JavaScript, Bootstrap, Tailwind | Node.js, React, Express, SQL, MongoDB| Yoga & Meditation Enthusiast</h3>
-
-<img align="right" alt="coding" width="400" src="https://github.com/87purvatapare/87purvatapare/blob/main/Photo%20git%20hub.gif?raw=true">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=87purvatapare&label=Profile%20views&color=0e75b6&style=flat" alt="87purvatapare" /> </p>
 
@@ -11,8 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/purvatapare05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purvatapare05" height="30" width="40" /></a>
+<a href="https://instagram.com/magic_pearl_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="magic_pearl_05" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/purva tapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="purva tapare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/purvatapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="purvatapare" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/purvatapare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="purvatapare" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,17 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=87purvatapare&show_icons=true&locale=en" alt="87purvatapare" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=87purvatapare&" alt="87purvatapare" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
