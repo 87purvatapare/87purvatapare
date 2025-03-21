@@ -1,7 +1,9 @@
-![logo](https://github.com/87purvatapare/87purvatapare/blob/main/purva_github_banner_updated.jpg?raw=true)
+![logo](https://github.com/87purvatapare/87purvatapare/blob/main/purva_github_banner_grey.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Purva Reshma Rakesh Tapare</h1>
-<h3 align="center">A passionate Full-Stack developer| C, C++, Python| HTML, CSS, JavaScript, Bootstrap, Tailwind | Node.js, React, Express, SQL, MongoDB| Yoga & Meditation Enthusiast</h3>
+<h3 align="center"> A Passionate Full-Stack Developer | Yoga & Meditation Enthusiast | Creative Thinker </h3>
+
 
 
 
