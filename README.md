@@ -1,4 +1,4 @@
-![logo](https://github.com/87purvatapare/87purvatapare/blob/main/purva_github_banner_grey.jpg)
+/*![logo](https://github.com/87purvatapare/87purvatapare/blob/main/purva_github_banner_grey.jpg)*/
 
 
 <h1 align="center">Hi 👋, I'm Purva Reshma Rakesh Tapare</h1>
