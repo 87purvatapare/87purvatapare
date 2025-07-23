@@ -44,8 +44,9 @@
   <a href="https://x.com/PTapare23968?t=7nYrNDKRRrexJu4jOdCykg&s=09" target="_blank" rel="noreferrer" style="margin-right:15px;">
     <img alt="X Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" />
   </a>
- 📸 [Instagram](https://instagram.com/magic_pearl__05)
-
+  <a href="https://instagram.com/magic_pearl__05" target="_blank" rel="noreferrer" style="margin-right:15px;">
+    <img alt="Instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" />
+  </a>
 </p>
 
 ---
@@ -53,7 +54,6 @@
 ### 🛠️ Tech Stack
 
 <p align="center" style="margin-bottom:10px;">
-  <!-- Each icon wrapped in a link -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
@@ -136,7 +136,6 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" />
 </p>
 
-
 ---
 
 ### 🌱 Let’s connect & grow together!
@@ -149,4 +148,3 @@
 ---
 
 *Made with ❤️ by Purva Tapare*
-
