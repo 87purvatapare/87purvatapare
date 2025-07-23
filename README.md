@@ -72,9 +72,10 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
- <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+<a href="https://tailwindcss.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
 </a>
+
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -143,11 +144,12 @@
 ### 🌱 Let’s connect & grow together!
 
 <p align="center">
-  I’m always o**pen to collaborate**, **learn**, and **innovate**. <br>
-  Whether it’s a **cool web app**, an **AI project**, or a hackathon idea — count me in! 🚀<br>
-  Let's connect, **share knowledge**, and turn creative ideas into **real-world impact**. 💡<br>
-  Feel free to drop me a message anytime —** I’d love to hear from you**! 🤝
+  I’m always <strong>open to collaborate</strong>, <strong>learn</strong>, and <strong>innovate</strong>. <br>
+  Whether it’s a <strong>cool web app</strong>, an <strong>AI project</strong>, or a hackathon idea — count me in! 🚀<br>
+  Let's connect, <strong>share knowledge</strong>, and turn creative ideas into <strong>real-world impact</strong>. 💡<br>
+  Feel free to drop me a message anytime — <strong>I’d love to hear from you</strong>! 🤝
 </p>
+
 
 
 ---
