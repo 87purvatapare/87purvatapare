@@ -15,17 +15,16 @@
 
 ---
 
-### 💡 About Me
+- 🌱 **Currently diving deep into Artificial Intelligence (AI), Machine Learning (ML), and Cloud Technologies.**
+- 💻 **Passionate Full Stack Developer building modern, scalable web apps with the MERN Stack and WordPress.**
+- 🧠 **Practicing Data Structures & Algorithms (DSA) regularly to sharpen problem-solving and coding skills.**
+- ☁️ **Exploring cloud services like AWS and Serverless Architecture to enhance backend efficiency.**
+- 📊 **Passionate about Data Visualization with Seaborn, Matplotlib, and Pandas.**
+- 🧘‍♀️ **A dedicated Yoga Enthusiast who believes inner calm leads to cleaner code. ✨**
+- 🎨 **I love blending creativity with logic — whether it’s a web interface, a WordPress theme, or an algorithm.**
+- 🚀 **Actively building projects, contributing to GitHub, and participating in hackathons & coding events.**
+- 🎯 **On a mission to turn ideas into impactful digital experiences — let’s connect and build something awesome together!**
 
-- 🌱 Currently diving deep into **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Cloud Technologies**.
-- 💻 Passionate **Full Stack Developer** building **modern**, **scalable web apps** with the **MERN Stack**.
-- 🧠 Practicing **Data Structures & Algorithms (DSA)** regularly to sharpen **problem-solving** and **coding skills**.
-- ☁️ Exploring cloud services like **AWS** and **Serverless Architecture** to enhance **backend efficiency**.
-- 📊 Passionate about **Data Visualization** with **Seaborn**, **Matplotlib**, and **Pandas**.
-- 🧘‍♀️ A dedicated **Yoga Enthusiast** who believes **inner calm leads to cleaner code** ✨.
-- 🎨 I love blending **creativity** with **logic** — whether it’s a **web interface** or an **algorithm**.
-- 🚀 Actively building **projects**, contributing to **GitHub**, and participating in **hackathons & coding events**.
-- 🎯 On a mission to **turn ideas into impactful digital experiences** — let’s connect and **build something awesome together!**.
 
 ---
 
@@ -162,11 +161,12 @@
 ### 🌱 Let’s connect & grow together!
 
 <p align="center">
-  I’m always <strong>open to collaborate</strong>, <strong>learn</strong>, and <strong>innovate</strong>. <br>
-  Whether it’s a <strong>cool web app</strong>, an <strong>AI project</strong>, or a hackathon idea — count me in! 🚀<br>
-  Let's connect, <strong>share knowledge</strong>, and turn creative ideas into <strong>real-world impact</strong>. 💡<br>
-  Feel free to drop me a message anytime — <strong>I’d love to hear from you</strong>! 🤝
+  <strong>I’m always open to collaborate, learn, and innovate.</strong> <br>
+  <strong>Whether it’s a cool web app, an AI project, or a hackathon idea — count me in! 🚀</strong><br>
+  <strong>Let's connect, share knowledge, and turn creative ideas into real-world impact. 💡</strong><br>
+  <strong>Feel free to drop me a message anytime — I’d love to hear from you! 🤝</strong>
 </p>
+
 
 
 
