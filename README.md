@@ -18,14 +18,14 @@
 ### 💡 About Me
 
 - 🌱 Currently diving deep into **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Cloud Computing**
-- 💻 Full Stack Developer focused on building modern, scalable web apps with the **MERN Stack**
-- 🧠 Practicing **Data Structures & Algorithms (DSA)** regularly to sharpen problem-solving and coding skills
+- 💻 **Full Stack Developer** focused on building modern, scalable web apps with the **MERN Stack**
+- 🧠 Practicing **Data Structures & Algorithms (DSA)** regularly to sharpen** problem-solving and coding skills**
 - ☁️ Exploring cloud services like **AWS** and **serverless architecture** to enhance backend efficiency
 - 📊 Passionate about **Data Visualization** with **Seaborn**, **Matplotlib**, and **Pandas**
-- 🧘‍♀️ Yoga enthusiast who believes inner calm leads to cleaner code ✨
-- 🎨 I love blending creativity with logic — whether it’s a web interface or an algorithm
-- 🚀 Actively building projects, contributing to GitHub, and participating in hackathons & coding events
-- 🎯 On a mission to turn ideas into impactful digital experiences. Let’s connect and build something awesome together!
+- 🧘‍♀️ **Yoga enthusiast** who believes inner calm leads to cleaner code ✨
+- 🎨 I love blending creativity with logic — whether it’s a **web interface or an algorithm**
+- 🚀 Actively building **projects, contributing to GitHub**, and **participating in hackathons & coding events**
+- 🎯 On a mission to **turn ideas into impactful digital experiences**. Let’s connect and build something awesome together!
 
 ---
 
@@ -72,9 +72,10 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
-  </a>
+ <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+</a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
@@ -142,15 +143,15 @@
 ### 🌱 Let’s connect & grow together!
 
 <p align="center">
-  I’m always open to collaborate, learn, and innovate. <br>
-  Whether it’s a cool web app, an AI project, or a hackathon idea — count me in! 🚀<br>
-  Let's connect, share knowledge, and turn creative ideas into real-world impact. 💡<br>
-  Feel free to drop me a message anytime — I’d love to hear from you! 🤝
+  I’m always o**pen to collaborate**, **learn**, and **innovate**. <br>
+  Whether it’s a **cool web app**, an **AI project**, or a hackathon idea — count me in! 🚀<br>
+  Let's connect, **share knowledge**, and turn creative ideas into **real-world impact**. 💡<br>
+  Feel free to drop me a message anytime —** I’d love to hear from you**! 🤝
 </p>
 
 
 ---
 
-⭐ Thanks for visiting my profile! Connect with me to collaborate and grow together.
+⭐ **Thanks for visiting my profile! Connect with me to collaborate and grow together.**
 
-*Made with ❤️ by Purva Tapare*
+------
