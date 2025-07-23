@@ -109,4 +109,42 @@
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right:10px;">
-    <img src="https://
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="90" height="40" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin-right:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=87purvatapare&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+</p>
+
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### 🎯 Goals
+
+- Improve my AI/ML knowledge and hands-on projects  
+- Master advanced Data Structures & Algorithms  
+- Build scalable, cloud-native applications  
+- Contribute to open source regularly  
+- Learn and apply clean code and best software engineering practices  
+- Keep growing as a developer and a creative problem solver  
+
+---
+
+⭐ Thanks for visiting my profile! Connect with me to collaborate and grow together.
+
+*Made with ❤️ by Purva Tapare*
