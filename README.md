@@ -133,8 +133,9 @@
 ### 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
