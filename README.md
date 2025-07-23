@@ -133,7 +133,7 @@
 ### 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" />
 </p>
 
 
@@ -142,10 +142,15 @@
 ### 🌱 Let’s connect & grow together!
 
 <p align="center">
-  I’m always open to collaborate, learn, and innovate.  
-  Feel free to drop me a message anytime!
+  I’m always open to collaborate, learn, and innovate. <br>
+  Whether it’s a cool web app, an AI project, or a hackathon idea — count me in! 🚀<br>
+  Let's connect, share knowledge, and turn creative ideas into real-world impact. 💡<br>
+  Feel free to drop me a message anytime — I’d love to hear from you! 🤝
 </p>
 
+
 ---
+
+⭐ Thanks for visiting my profile! Connect with me to collaborate and grow together.
 
 *Made with ❤️ by Purva Tapare*
