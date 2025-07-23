@@ -44,9 +44,8 @@
   <a href="https://x.com/PTapare23968?t=7nYrNDKRRrexJu4jOdCykg&s=09" target="_blank" rel="noreferrer" style="margin-right:15px;">
     <img alt="X Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" />
   </a>
-  <a href="https://instagram.com/magic_pearl__05" target="_blank" rel="noreferrer">
-    <img alt="Instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" />
-  </a>
+ 📸 [Instagram](https://instagram.com/magic_pearl__05)
+
 </p>
 
 ---
@@ -134,8 +133,9 @@
 ### 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=87purvatapare&theme=react-dark&hide_border=true" />
 </p>
+
 
 ---
 
