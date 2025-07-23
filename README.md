@@ -45,7 +45,7 @@
     <img alt="X Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" />
   </a>
   <a href="https://instagram.com/magic_pearl__05" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img alt="Instagram" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="35" />
+   <img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
   </a>
 </p>
 
