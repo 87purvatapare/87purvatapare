@@ -17,15 +17,15 @@
 
 ### 💡 About Me
 
-- 🌱 Currently diving deep into **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Cloud Computing**
-- 💻 **Full Stack Developer** focused on building modern, scalable web apps with the **MERN Stack**
-- 🧠 Practicing **Data Structures & Algorithms (DSA)** regularly to sharpen** problem-solving and coding skills**
-- ☁️ Exploring cloud services like **AWS** and **serverless architecture** to enhance backend efficiency
-- 📊 Passionate about **Data Visualization** with **Seaborn**, **Matplotlib**, and **Pandas**
-- 🧘‍♀️ **Yoga enthusiast** who believes inner calm leads to cleaner code ✨
-- 🎨 I love blending creativity with logic — whether it’s a **web interface or an algorithm**
-- 🚀 Actively building **projects, contributing to GitHub**, and **participating in hackathons & coding events**
-- 🎯 On a mission to **turn ideas into impactful digital experiences**. Let’s connect and build something awesome together!
+- 🌱 Currently diving deep into **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Cloud Technologies**.
+- 💻 Passionate **Full Stack Developer** building **modern**, **scalable web apps** with the **MERN Stack**.
+- 🧠 Practicing **Data Structures & Algorithms (DSA)** regularly to sharpen **problem-solving** and **coding skills**.
+- ☁️ Exploring cloud services like **AWS** and **Serverless Architecture** to enhance **backend efficiency**.
+- 📊 Passionate about **Data Visualization** with **Seaborn**, **Matplotlib**, and **Pandas**.
+- 🧘‍♀️ A dedicated **Yoga Enthusiast** who believes **inner calm leads to cleaner code** ✨.
+- 🎨 I love blending **creativity** with **logic** — whether it’s a **web interface** or an **algorithm**.
+- 🚀 Actively building **projects**, contributing to **GitHub**, and participating in **hackathons & coding events**.
+- 🎯 On a mission to **turn ideas into impactful digital experiences** — let’s connect and **build something awesome together!**.
 
 ---
 
@@ -57,65 +57,83 @@
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
+  
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
+  
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
   </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
+  
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
   </a>
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
+  
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
 </a>
-
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
   </a>
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
   </a>
+  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
   </a>
+  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
   </a>
+  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
   </a>
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
   </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
+
   <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   </a>
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
+  
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
+  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
+  
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" />
   </a>
+  
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40" />
   </a>
+  
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
   </a>
