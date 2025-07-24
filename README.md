@@ -144,7 +144,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=87purvatapare&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=87purvatapare&show_icons=true&theme=tokyonight" />
+ <p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=87purvatapare&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
 
 </p>
 
