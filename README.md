@@ -144,9 +144,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=87purvatapare&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-<p align="center">
-  <img src="https://readme-streak-stats.demolab.com?user=87purvatapare&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=87purvatapare&show_icons=true&theme=tokyonight" />
 
 </p>
 
