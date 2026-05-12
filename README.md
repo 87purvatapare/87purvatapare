@@ -31,9 +31,14 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="https://github.com/87purvatapare" target="_blank" rel="noreferrer" style="margin-right:15px;">
-    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-  </a>
+ <a href="https://github.com/87purvatapare" target="_blank" rel="noreferrer">
+  <img 
+    alt="GitHub" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
+    width="35"
+    style="filter: invert(1);"
+  />
+</a>
   <a href="https://www.linkedin.com/in/purva-tapare05/" target="_blank" rel="noreferrer" style="margin-right:15px;">
     <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
   </a>
