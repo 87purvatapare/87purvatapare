@@ -125,10 +125,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
   
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer" style="margin:0 8px;">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40" />
-  </a>
-  
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin:0 8px;">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="80" height="40" />
   </a>
