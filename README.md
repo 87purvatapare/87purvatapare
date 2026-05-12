@@ -31,13 +31,9 @@
 ### 📬 Contact Me
 
 <p align="center">
- <a href="https://github.com/87purvatapare" target="_blank" rel="noreferrer">
-  <img 
-    alt="GitHub" 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" 
-    width="35"
-    style="filter: invert(1);"
-  />
+<a href="https://github.com/87purvatapare" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" width="40"/>
+</a>
 </a>
   <a href="https://www.linkedin.com/in/purva-tapare05/" target="_blank" rel="noreferrer" style="margin-right:15px;">
     <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" />
@@ -47,9 +43,6 @@
   </a>
   <a href="https://x.com/PTapare23968?t=7nYrNDKRRrexJu4jOdCykg&s=09" target="_blank" rel="noreferrer" style="margin-right:15px;">
     <img alt="X Twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="35" />
-  </a>
-  <a href="https://instagram.com/magic_pearl__05" target="_blank" rel="noreferrer" style="margin-right:15px;">
-   <img alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="35" />
   </a>
 </p>
 
